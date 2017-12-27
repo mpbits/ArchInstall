@@ -1,0 +1,4 @@
+Install base-devel
+
+Install notepadqq
+https://github.com/notepadqq/notepadqq
