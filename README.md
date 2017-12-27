@@ -1,4 +1,4 @@
-# Install base-devel
+# Install base-devel (only on Arch based distros)
 
 # Install notepadqq
   - https://github.com/notepadqq/notepadqq
